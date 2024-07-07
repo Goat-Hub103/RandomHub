@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/BallingScript/main/Source/Mm2"))()
